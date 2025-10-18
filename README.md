@@ -1,5 +1,7 @@
 # Austria Municipalities with Contact
 
+Claude Code generated spiders from these sources, mostly for use at FragDenStaat.at.
+
 ## Sources
 
 Burgenland: https://www.burgenland.at/fileadmin/user_upload/Downloads/Land_und_Politik/Land/Bezirke_und_Gemeinden/Liste_der_Gemeinden_des_Burgenlands_Stand_25-08-2025.xlsx (via https://www.burgenland.at/verwaltung/land-burgenland/bezirke-gemeinden/)
@@ -17,4 +19,3 @@ Steiermark: https://www.verwaltung.steiermark.at/cms/beitrag/11683218/74836396/ 
 Tirol: https://www.tirol.gv.at/gemeinden/
 
 Vorarlberg: https://vorarlberg.at/-/auflistung-aller-vorarlberger-staedte-gemeinden-und-ihrer-e-mail-kontaktadresse (nur Name und Email, ergänzen ggf via Wikidata?)
-
